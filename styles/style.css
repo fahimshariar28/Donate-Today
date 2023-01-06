@@ -38,7 +38,7 @@ header{
   font-size: 18px;
   margin-bottom: 30px;
 }
-/* Donate Now Style */
+/* Donation Section Style */
 .donate-now{
   text-align: center;
   margin: 0 337px;
@@ -53,6 +53,7 @@ header{
   font-weight: 400;
   font-size: 18px;
   margin-bottom: 50px;
+  color: #707070;
 }
 .donate-tk-all {
     display: flex;
@@ -94,3 +95,56 @@ hr{
   border: 1px solid #DADADA;
   margin-bottom: 30px;
 }
+/* Donation Plan Section */
+.donation-section-header{
+  margin-top: 130px;
+  text-align: center;
+  color: #1E1E1E;
+  font-weight: 700;
+  font-size: 45px;
+
+}
+.donation-plan-description{
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+  margin: 0 375px 50px;
+}
+.donation-plan{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 24px;
+  margin: 0 157px;
+}
+.donation-plan h3{
+  font-weight: 600;
+  font-size: 24px;
+  color: #121212;
+  margin-top: 31px;
+  margin-bottom: 16px ;
+}
+.donation-plan p{
+  font-weight: 400;
+  font-size: 16px;
+  color: #707070;
+}
+.donation-plan-section1{
+  background-color: #EEF6F7;
+  padding: 55px 23px;
+  border: 0;
+  border-radius: 5px;
+}
+.donation-plan-section2{
+  background-color: #FFEFEF;
+  padding: 55px 23px;
+  border: 0;
+  border-radius: 5px;
+}
+.donation-plan-section3{
+  background-color: #FFF4D6;
+  padding: 55px 23px;
+  border: 0;
+  border-radius: 5px;
+}
+
